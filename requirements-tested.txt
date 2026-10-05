@@ -1,0 +1,4 @@
+# Desktop CPU inference versions verified during publication (Python 3.9.13).
+numpy==2.0.2
+opencv-python==4.11.0.86
+onnxruntime==1.19.2
