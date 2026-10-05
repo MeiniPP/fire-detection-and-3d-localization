@@ -1,0 +1,23 @@
+{
+  "rgb_topic": "/camera/color/image_raw",
+  "depth_topic": "/camera/depth/image_raw",
+  "camera_matrix": [
+    [
+      577.54679,
+      0.0,
+      310.24326
+    ],
+    [
+      0.0,
+      578.63325,
+      253.65539
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "sync_queue_size": 10,
+  "sync_slop": 0.1
+}
